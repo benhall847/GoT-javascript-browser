@@ -9,6 +9,9 @@ html body{
     flex-direction: row;
     flex-wrap: wrap;
 }
+.hidden{
+    
+}
 
 .GoTlist{
     margin: 5px;
